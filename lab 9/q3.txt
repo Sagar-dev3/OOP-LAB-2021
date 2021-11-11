@@ -1,0 +1,1 @@
+Qstn 3. Write a single program to illustrate all types of inheritance
