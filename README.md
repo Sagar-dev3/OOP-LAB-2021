@@ -1,12 +1,12 @@
 # OOP-LAB-2021
 
 ## Guide : 
-In every lab folder, there are exact same images provided by ma'am, but only a selected questions were assigned to us.
-I have no idea about lab 1 2 3, so from lab 4 folder, along with the images there is a text file which has specified questions numbers from the respective folder images.
-Lab 9 is a an exception, it has 3 questions in total - 2 images and 1 text file
-Lab 10,11 - all the questions need to be done from the image provided
+In every lab folder, there are exact same images provided by ma'am, but only a selected questions were assigned to us. <br/>
+I have no idea about lab 1 2 3, so from lab 4 folder, along with the images there is a text file which has specified questions numbers from the respective folder images.<br/>
+Lab 9 is a an exception, it has 3 questions in total - 2 images and 1 text file <br/>
+Lab 10,11 - all the questions need to be done from the image provided <br/>
 
-again, the question numbers mentioned below are also provided in respective folders👇
+again, the question numbers mentioned below are also provided in respective folders👇 <br/>
 
 ## Specified Q no.
 
